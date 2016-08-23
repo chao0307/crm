@@ -1,1 +1,3 @@
 echo hello,xiaozhi!
+echo nihao.
+echo aaaaaa!
