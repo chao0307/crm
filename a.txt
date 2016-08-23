@@ -3,3 +3,4 @@ echo nihao.
 echo aaaaaa!
 echo xxxxxxx!
 echo bbbbb!
+system.out.println("你好小支");
