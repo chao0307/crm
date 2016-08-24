@@ -1,7 +1,0 @@
-echo hello,xiaozhi!
-echo nihao.
-echo aaaaaa!
-echo xxxxxxx!
-echo bbbbb!
-echo hahahaha!
-SSSS!
